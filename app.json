@@ -1,35 +1,27 @@
 {
-    "name": "ShoukoKomiRobot",
-    "description": "An anime themed telegram bot to convert media",
-    "logo": "https://telegra.ph/file/4d45ccdd9a9efb5c20a01.jpg",
-    "keywords": [
-        "Best",
-        "telegram",
-        "compressor",
-        "bot"
-    ],
-    "repository": "https://github.com/StrawHat-Network/ShoukoKomiRobot",
-    "website": "",
-    "success_url": "http://t.me/StrawHat_Network",
-    "stack": "container",
-    "env": {
-        "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
-            "value": ""
-        },
-        "API_ID": {
-            "description": "Your API ID from my.telegram.org",
-            "value": ""
-        },
-        "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
-            "value": ""
-        },
-        "AUTH_USERS": {
-            "description": "Bot owner's UserID.",
-            "value": ""
-        }
+  "name": "KomiRobot",
+  "description": "A Normal Telegram Bot Which can Convert media.",
+  "logo": "https://telegra.ph/file/4d45ccdd9a9efb5c20a01.jpg",
+  "keywords": ["Telegram", "python", "Video", "Converter"],
+  "repository": "https://github.com/StrawHat-Network/ShoukoKomiRobot",
+  "success_url": "https://t.me/StrawHat_Network",
+  "stack": "container",
+  "env": {
+    "APP_ID": {
+      "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Make a bot from @BotFather, and enter it's api token here.",
+      "value": ""
+    },
+    "AUTH_USERS": {
+      "description": "Get ur Id Of Telegram nd Paste Here.",
+      "value": ""
     }
+  }
 }
-    
-        
