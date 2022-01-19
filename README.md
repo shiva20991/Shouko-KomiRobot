@@ -13,7 +13,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FStrawHat-Network%2FShouko-KomiRobot&template=https%3A%2F%2Fgithub.com%2FStrawHat-Network%2FShouko-KomiRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/shiva20991/Shouko-KomiRobot?organization=shiva20991&organization=shiva20991)
 
 
 # Vars
