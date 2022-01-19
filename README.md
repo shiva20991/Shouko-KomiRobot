@@ -16,7 +16,7 @@
 𝔻𝕠𝕟𝕥 𝕗𝕠𝕣𝕘𝕖𝕥 𝕥𝕠 𝕘𝕚𝕧𝕖 𝕥𝕙𝕚𝕤 𝕣𝕖𝕡𝕠 𝕤𝕥𝕒𝕣𝕤 𝕒𝕟𝕕 𝕛𝕠𝕚𝕟 𝕠𝕦𝕣 𝕋𝕖𝕝𝕖𝕘𝕣𝕒𝕞 ℕ𝕖𝕥𝕨𝕠𝕣𝕜.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FStrawHat-Network%2FShouko-KomiRobot&template=https%3A%2F%2Fgithub.com%2FStrawHat-Network%2FShouko-KomiRobot)
 
 
 # Vars
